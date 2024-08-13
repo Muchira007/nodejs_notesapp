@@ -1,0 +1,4 @@
+PORT = 3000
+module.exports = {
+    JWT_SECRET: 'BIFBVOBOABRF888RW9', // Change this to a more secure secret
+};
